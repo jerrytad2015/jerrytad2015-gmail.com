@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://cms.montgomerycollege.edu/emergencynotifications/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+IDList=
+URL=http://cms.montgomerycollege.edu/emergencynotifications/
+IconFile=C:\Temp\Icons\MC_Raptor_Icon.ico
+IconIndex=0
+HotKey=0
